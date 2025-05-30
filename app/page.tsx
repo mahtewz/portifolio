@@ -4,7 +4,7 @@ import { useState } from "react"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
-import { Mail, Github, Linkedin, Code, Database, Server, Palette, Languages } from "lucide-react"
+import { Mail, Github, Code, Database, Server, Palette, Languages } from "lucide-react"
 
 type Language = "pt" | "en"
 
