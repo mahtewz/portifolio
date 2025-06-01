@@ -154,7 +154,7 @@ export default function Portfolio() {
         <div className="container flex h-14 items-center justify-between">
           <div className="flex items-center space-x-2 ml-4">
             <Code className="h-6 w-6" />
-            <span className="font-bold">Portfolio</span>
+            <span className="font-bold">Matheus Nonato Moreira</span>
           </div>
 
           <nav className="hidden md:flex items-center space-x-6 text-sm font-medium">
